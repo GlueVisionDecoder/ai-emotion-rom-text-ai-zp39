@@ -1,4 +1,4 @@
-# 
+# 更新 AI Emotion Detection from Text 插件。集成 聊天机器人集成 和 自动决策，性能最大化。
 
 
 
